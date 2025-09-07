@@ -1,5 +1,0 @@
-name: TranslatorPlugin
-main: com.example.translator.TranslatorPlugin
-version: 1.0
-api-version: 1.19
-author: Kamu
